@@ -370,6 +370,10 @@ a {
     padding: 20px 40px 20px 40px;
     border-radius: 4px;
 }
+.bigger-primary-button:hover {
+    background-color: var(--accent-color-dark);
+    transition: 0.2s ease-out;
+}
 
 /* Footer section */
 .footer-section {
